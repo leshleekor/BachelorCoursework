@@ -1,7 +1,3 @@
-// CSE2020 - Lab09-01
-// 2018042797 
-// Seunghyeon Lee 
-
 class Player {
   fun void play(StkInstrument inst, int notes[], dur duration[]) {
     for (0=>int i; i < notes.cap(); i++) {

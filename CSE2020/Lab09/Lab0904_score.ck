@@ -1,7 +1,3 @@
-// CSE2020 - Lab09-04
-// 2018042797 
-// Seunghyeon Lee 
-
 BPM bpm;
 bpm.tempo(200.0);
 bpm.sixthNote => dur sn;

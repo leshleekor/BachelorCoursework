@@ -1,7 +1,3 @@
-// CSE2020 - Lab09-05
-// 2018042797 
-// Seunghyeon Lee 
-
 public class MyClarinet extends Clarinet {
   fun float noteOn(int note, float volume) {
     note => Std.mtof => this.freq;

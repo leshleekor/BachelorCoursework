@@ -1,7 +1,3 @@
-// CSE2020 - Lab09-04
-// 2018042797 
-// Seunghyeon Lee 
-
 public class BPM {
     static dur wholeNote, halfNote;
     static dur quarterNote, eighthNote, sixteenthNote, thirtysecondNote;
