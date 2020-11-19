@@ -38,6 +38,15 @@ while(true) {
       else if(msg.ascii == 53) {
           67 => Std.mtof => organ.freq;
       }
+      else if(msg.ascii == 54) {
+          69 => Std.mtof => organ.freq;
+      }
+      else if(msg.ascii == 55) {
+          71 => Std.mtof => organ.freq;
+      }
+      else if(msg.ascii == 56) {
+          72 => Std.mtof => organ.freq;
+      }
       else continue;
       // msg.ascii => Std.mtof => organ.freq;
       1 => organ.noteOn;
