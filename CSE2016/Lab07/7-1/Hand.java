@@ -1,6 +1,4 @@
-// CSE2016
-// ID: 2018042797
-// Name: Seunghyeon Lee
+// CSE2016 Lab#7-1
 
 public class Hand {
   private Card[] hand;

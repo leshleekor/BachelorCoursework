@@ -1,3 +1,5 @@
+// CSE2016 Lab#7-1
+
 public class Card {
 	
 	public static final String SPADES = "spades";

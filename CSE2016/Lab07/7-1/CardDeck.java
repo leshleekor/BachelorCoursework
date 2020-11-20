@@ -1,3 +1,5 @@
+// CSE2016 Lab#7-1
+
 public class CardDeck {
 	
 	private int card_count; // 남은 카드 수 
